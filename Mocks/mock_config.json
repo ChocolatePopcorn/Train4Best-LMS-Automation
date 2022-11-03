@@ -1,0 +1,8 @@
+{
+  "mockedWorkflows": [
+    {
+      "mockFilePath": "Mocks\\Workflow\\Forms\\Form - Fill form for live session_mock.xaml",
+      "sourceWorkflowPath": "Workflow\\Forms\\Form - Fill form for live session.xaml"
+    }
+  ]
+}
